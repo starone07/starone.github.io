@@ -23,9 +23,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 9em;
     line-height: 1.4em;
     color: rgb(10,30,125);
+    font-family: 'Arial';
 }
 footer {
     border-top: 1px solid #d5d5d5;
