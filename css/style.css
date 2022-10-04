@@ -55,6 +55,16 @@ ul.posts li {
 }
 .img {
   display: inline-block;
+}
+.img1 {
+  width: 200px;
+  heigh: 200px;
+}
+.img2 {
+  width: 200px;
+  heigh: 200px;
+}
+.img3 {
   width: 200px;
   heigh: 200px;
 }
