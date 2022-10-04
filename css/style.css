@@ -18,15 +18,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
-    font-size: 2em;
+    font-size: 1em;
     line-height: 1.4em;
-    color: rgb(10,30,125);
+    color: rgb(10,30,85);
     font-family: 'Arial';
+    margin: 0;
 }
 footer {
     border-top: 1px solid #d5d5d5;
