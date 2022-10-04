@@ -1,20 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Astrid's Page</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <link href="css/style.css" rel="stylesheet"/>
-  </head>
-  <body>
-   <h1>About Astrid</h1>
-      <article class="aboutMe">
-          <p class="intro">系級</p><p class="Me">資工二甲</p>
-      </article>
-      <article class="aboutMe">
-          <p class="intro">姓名</p><p class="Me">萬星容</p>
-      </article>
-      <h2>My Works</h2>
- </body>
-</html>
+<style>
+  h1 {
+    color: black;
+  }
+</style>
+
+<h1>萬星容</h1>
