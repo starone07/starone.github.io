@@ -19,11 +19,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 5em;
+    font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 3em;
+    font-size: 2em;
     line-height: 1.4em;
     color: rgb(10,30,125);
     font-family: 'Arial';
@@ -37,6 +37,7 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
+
 body {
   width: 80%;
   background-color: white;
@@ -49,21 +50,30 @@ body {
 ul.posts li {
     list-style: none;
 }
+
+h2{
+  font-size: 1em;
+}
+
 .icon{
   width: 150px;
   heigh: 150px;
 }
+
 .img {
   display: inline-block;
 }
+
 .img1 {
   width: 200px;
   heigh: 200px;
 }
+
 .img2 {
   width: 200px;
   heigh: 200px;
 }
+
 .img3 {
   width: 200px;
   heigh: 200px;
