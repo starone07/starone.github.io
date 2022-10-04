@@ -41,10 +41,6 @@ ul.posts {
 body {
   width: 80%;
   background-color: white;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-  max-width: 500px;
 }
 
 ul.posts li {
