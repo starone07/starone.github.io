@@ -1,7 +1,6 @@
 body {
   background-image: url("../images/background_photo.jpg");
-  font-family: sans-serif;
-  padding: 20px;
+  padding: 100px;
 }
 title, li, h1, p, h2{
   text-align: center;
