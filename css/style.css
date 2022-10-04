@@ -50,10 +50,8 @@ ul.posts li {
     list-style: none;
 }
 .icon{
-  display: block;
-  margin-left: 10em;
-  margin-right: 10em;
-  padding: 100px;
+  width: 10px;
+  heigh: 10px;
 }
 
 .photo1{
