@@ -1,5 +1,5 @@
 body {
-  background-image: link="images/background_photo";
+  background-image: src="images/background_photo";
   font-family: sans-serif;
   padding: 20px;
 }
