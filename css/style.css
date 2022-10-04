@@ -2,6 +2,10 @@ body{
   margin: 10px;
   background-color: rgb(50,20,160);
 }
+
+.email{
+  font-size: 1em;
+}
 title, h1, p, h2{
   text-align: center;
 }
