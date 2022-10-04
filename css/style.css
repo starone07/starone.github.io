@@ -78,7 +78,7 @@ h2{
   display: inline-block;
 }
 
-.img {
+.img1, .img2, .img3, .img4{
   width: 300px;
   heigh: 300px;
 }
