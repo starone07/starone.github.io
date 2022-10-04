@@ -91,6 +91,7 @@ h2{
 .github{
   width: 70px;
   heigh: 70px;
+  margin-right: 0;
 }
 .insta{
   width: 70px;
@@ -104,6 +105,7 @@ h2{
   margin-right: auto;
   max-width: 500px;
 }
+
 .seeMore{
   width: 50px;
   heigh: 50px;
