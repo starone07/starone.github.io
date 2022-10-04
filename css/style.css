@@ -65,17 +65,15 @@ h2{
 }
 
 .icon{
-  width: 150px;
-  heigh: 150px;
   margin: 10%;
   display: inline-block;
 }
 
-.line1 {
+.line1{
   display: inline-block;
 }
 
-.line2 {
+.line2{
   display: inline-block;
 }
 
@@ -85,12 +83,12 @@ h2{
 }
 
 .yt{
-  width: 70px;
-  heigh: 70px;
+  width: 60px;
+  heigh: 60px;
 }
 .github{
-  width: 70px;
-  heigh: 70px;
+  width: 60px;
+  heigh: 60px;
   margin-right: 0;
 }
 .insta{
@@ -98,7 +96,7 @@ h2{
   heigh: 70px;
 }
 
-.container {
+.container{
   width: 80%;
   background-color: #ACD6FF;
   margin-left: auto;
