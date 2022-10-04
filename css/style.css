@@ -105,7 +105,9 @@ h2{
   margin-right: auto;
   max-width: 500px;
 }
-
+#socialMeiaLinks{
+  font-size: 2em;
+}
 .seeMore{
   width: 50px;
   heigh: 50px;
