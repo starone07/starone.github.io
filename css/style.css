@@ -5,6 +5,7 @@ body{
 
 .email{
   font-size: 1em;
+  text-align: center;
 }
 title, h1, p, h2{
   text-align: center;
