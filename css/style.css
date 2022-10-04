@@ -77,34 +77,22 @@ h2{
 .line2 {
   display: inline-block;
 }
-.img1 {
+
+.img {
   width: 300px;
   heigh: 300px;
 }
 
-.img2 {
-  width: 300px;
-  heigh: 300px;
-}
-
-.img3 {
-  width: 300px;
-  heigh: 300px;
-}
-.img4 {
-  width: 300px;
-  heigh: 300px;
-}
 .yt{
-  width: 85px;
-  margin-right: 10px;
+  width: 70px;
+  margin-right: auto;
 }
 .github{
-  width: 85px;
+  width: 70px;
   margin: auto;
 }
 .insta{
-  width: 85px;
+  width: 70px;
   margin: auto;
 }
 
