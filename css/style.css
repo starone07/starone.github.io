@@ -53,20 +53,28 @@ ul.posts li {
   display: block;
   margin-left: 10em;
   margin-right: 10em;
-  padding: 10px;
+  padding: 100px;
 }
 
 .photo1{
   margin: 50%;
+  width: 100px;
+  heigh: 100px;
 }
 .photo2{
   margin: 50%;
+  width: 100px;
+  heigh: 100px;
 }
 .photo3{
   margin: 50%;
+  width: 100px;
+  heigh: 100px;
 }
 .photo4{
   margin: 50%;
+  width: 100px;
+  heigh: 100px;
 }
 .img1 {
   display: inline-block;
