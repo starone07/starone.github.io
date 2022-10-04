@@ -50,12 +50,12 @@ ul.posts li {
     list-style: none;
 }
 .icon{
-  width: 100px;
-  heigh: 100px;
+  width: 150px;
+  heigh: 150px;
 }
 .img {
   display: inline-block;
-  width: 300px;
-  heigh: 300px;
+  width: 200px;
+  heigh: 200px;
 }
 
