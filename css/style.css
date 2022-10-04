@@ -77,23 +77,26 @@ h2{
   display: inline-block;
 }
 .img1 {
-  width: 250px;
-  heigh: 250px;
+  width: 300px;
+  heigh: 300px;
 }
 
 .img2 {
-  width: 250px;
-  heigh: 250px;
+  width: 300px;
+  heigh: 300px;
 }
 
 .img3 {
-  width: 250px;
-  heigh: 250px;
+  width: 300px;
+  heigh: 300px;
 }
-
+.img4 {
+  width: 300px;
+  heigh: 300px;
+}
 .yt{
   width: 100px;
-  margin: auto;
+  margin-right: 10px;
 }
 .github{
   width: 100px;
