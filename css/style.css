@@ -19,9 +19,14 @@ title, h1, p, h2{
   margin: 10%;
   display: inline-block;
 }
-
-
-
+#top {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
+.line2{ display: inline-block; }
 .img1, .img2, .img3, .img4{
   width: 300px;
   heigh: 300px;
