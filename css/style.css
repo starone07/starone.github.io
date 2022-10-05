@@ -2,11 +2,15 @@ body{
   margin: 10px;
   background-color: rgb(50,20,160);
 }
-
-.email{
-  font-size: 1em;
-  text-align: center;
+.zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
 }
+
 title, h1, p, h2{
   text-align: center;
 }
@@ -16,17 +20,18 @@ title, h1, p, h2{
   display: inline-block;
 }
 
-.line1{
-  display: inline-block;
-}
 
-.line2{
-  display: inline-block;
-}
 
 .img1, .img2, .img3, .img4{
   width: 300px;
   heigh: 300px;
+}
+.seeMore{
+  width: 75px;
+  heigh: 75px;
+}
+.line{
+  display: inline-block;
 }
 
 .yt{
@@ -53,7 +58,9 @@ title, h1, p, h2{
 #socialMeiaLinks{
   font-size: 2em;
 }
-.seeMore{
-  width: 75px;
-  heigh: 75px;
+
+
+.email{
+  font-size: 1em;
+  text-align: center;
 }
