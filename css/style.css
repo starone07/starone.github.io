@@ -14,7 +14,6 @@ a:hover{
 
 h1 {
     font-size: 3em;
-    font-family: 'Sans-Serif';
 }
 
 p {
@@ -58,7 +57,8 @@ nav ul li, footer ul li {
 }
 
 title, h1, p, h2{
-  text-align: center;
+    text-align: center;
+    font-family: 'Alkalami', serif;
 }
 
 #photo{
