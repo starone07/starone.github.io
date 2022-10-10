@@ -71,7 +71,8 @@ title, h1, p, h2{
 }
 
 .line2{ 
-  display: inline-block; 
+  display: inline-block;
+    padding-left: 20%;
 }
 
 .img1, .img2, .img3, .img4{
@@ -84,10 +85,14 @@ title, h1, p, h2{
   heigh: 75px;
 }
 
-.line{
+.line1{
   display: inline-block;
+  padding-left: 20%;
 }
 
+.sns{
+  display: inline-block;
+}
 .yt{
   width: 60px;
   heigh: 60px;
