@@ -38,7 +38,6 @@ title, h1, p, h2{
 }
 
 #top {
-  position: fixed;
   right: 0;
   top: 50%;
   width: 8em;
@@ -50,9 +49,10 @@ title, h1, p, h2{
 }
 
 .img1, .img2, .img3, .img4{
-  width: 300px;
-  heigh: 300px;
+  width: 350px;
+  heigh: 350px;
 }
+
 .seeMore{
   width: 75px;
   heigh: 75px;
