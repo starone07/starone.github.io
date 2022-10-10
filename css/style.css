@@ -80,7 +80,8 @@ title, h1, p, h2{
   heigh: 350px;
 }
 
-.seeMore{
+.seeMore{ 
+  text-align: center;
   width: 75px;
   heigh: 75px;
 }
