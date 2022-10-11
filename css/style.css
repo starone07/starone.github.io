@@ -57,7 +57,7 @@ nav ul li, footer ul li {
     padding-top: 10%;
 }
 
-title, h1, p, h2{
+title, h1, p, h2, a{
     text-align: center;
     font-family: 'Alkalami', serif;
 }
@@ -126,5 +126,5 @@ title, h1, p, h2{
 
 .email{
   font-size: 1em;
-  text-align: center;
+  display: inline-block;
 }
