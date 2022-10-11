@@ -68,7 +68,7 @@ title, h1, p, h2, a{
 }
 
 .zoom:hover {
-  transform: scale(1.5); 
+  transform: scale(1.1); 
 }
 
 .icon{
@@ -126,4 +126,6 @@ title, h1, p, h2, a{
 .email{
   font-size: 1em;
   display: inline-block;
+  color: #000;
+  text-align: center;
 }
