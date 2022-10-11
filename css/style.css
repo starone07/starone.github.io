@@ -92,6 +92,10 @@ title, h1, p, h2, a{
   heigh: 350px;
 }
 
+.img1, .img3{
+    padding-left: 10px;
+}
+
 .seeMore{ 
   padding-left: 30px;
   width: 75px;
