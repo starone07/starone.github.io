@@ -63,8 +63,7 @@ title, h1, p, h2, a{
 .zoom {
   padding: 10px;
   transition: transform .2s;
-  width: 360px;
-  height: 360px;
+  width: 350px;
   margin: 0 auto;
 }
 
