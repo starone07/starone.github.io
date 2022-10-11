@@ -67,6 +67,18 @@ title, h1, p, h2{
   font-family: 'Alkalami', serif;
 }
 
+.zoom {
+  padding: 10px;
+  transition: transform .2s;
+  width: 360px;
+  height: 360px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
 .icon{
   margin: 10%;
   display: inline-block;
