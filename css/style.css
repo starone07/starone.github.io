@@ -110,8 +110,7 @@ title, h1, p, h2{
 }
 
 #sns{
-  font-size: 2em;
-  display: block;
+  display: inline-block;
 }
 
 .email{
