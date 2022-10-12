@@ -7,30 +7,30 @@ a:hover{
     text-decoration: underline;
 }
 
-h1 {
+h1{
     font-size: 3em;
 }
 
-p {
+p{
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 
-ul.posts { 
+ul.posts{ 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
-ul.posts li {
+ul.posts li{
     list-style: none;
 }
 
 #menu{
-    heigh: -10px;
+    margin-top: -10px;
     padding-top: 0;
     position: fixed;
-    width: 100%;
+    background-color: #fff;
 }
 
 nav ul, footer ul {
