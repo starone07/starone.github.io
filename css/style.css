@@ -64,7 +64,6 @@ title, h1, p, h2, a{
   padding: 10px;
   transition: transform .2s;
   width: 350px;
-  margin: 0 auto;
 }
 
 .zoom:hover {
@@ -92,11 +91,11 @@ title, h1, p, h2, a{
 
 .seeMore{ 
   padding-left: 30px;
-  width: 75px;
-  heigh: 75px;
+  width: 80px;
+  heigh: 80px;
   padding-top: ;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 .line1{
