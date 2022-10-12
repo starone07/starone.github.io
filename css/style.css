@@ -99,8 +99,10 @@ title, h1, p, h2, a{
 
 .sns{
   display: inline-block;
-  width: 50px;
-  heigh: 50px;
+}
+
+.yt, .insta, .github{
+    width: 50px;
 }
 
 .email{
