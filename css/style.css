@@ -81,12 +81,8 @@ title, h1, p, h2, a{
   heigh: 350px;
 }
 
-.img1{
-    margin-left: 15%;
-}
-
-.img3{
-    margin-left: 15%;
+.img1, .img3{
+    margin-left: 19%;
 }
 
 .seeMore{ 
@@ -95,10 +91,6 @@ title, h1, p, h2, a{
   padding-top: ;
   margin-top: ;
   margin-left: 45%;
-}
-
-.sns{
-  display: inline-block;
 }
 
 .yt, .insta, .github{
