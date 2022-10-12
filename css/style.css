@@ -27,7 +27,7 @@ ul.posts li {
 }
 
 #menu{
-    margin-top: -10px;
+    heigh: -10px;
     padding-top: 0;
     position: fixed;
     background-color:#fff;
@@ -75,18 +75,19 @@ title, h1, p, h2, a{
   display: inline-block;
 }
 
-.line2{ 
-  display: inline-block;
-    padding-left: 10px;
-}
+
 
 .img1, .img2, .img3, .img4{
   width: 350px;
   heigh: 350px;
 }
 
-.img1, .img3{
-    padding-left: 30px;
+.img1{
+    padding-left: 30%;
+}
+
+.img3{
+    padding-left: 30%;
 }
 
 .seeMore{ 
@@ -98,10 +99,7 @@ title, h1, p, h2, a{
   margin-right: 25%;
 }
 
-.line1{
-  display: inline-block;
-  padding-left: 10px;
-}
+
 
 #sns{
   display: inline-block;
