@@ -27,11 +27,11 @@ ul.posts li {
 }
 
 #menu{
-    heigh: -10px;
+    margin-top: -10px;
     padding-top: 0;
     position: fixed;
     background-color:#fff;
-    width: 80%;
+    width: 100%;
 }
 
 nav ul, footer ul {
