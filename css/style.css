@@ -103,23 +103,10 @@ title, h1, p, h2, a{
   padding-left: 10px;
 }
 
-.yt{
-  width: 50px;
-  heigh: 50px;
-}
-
-.github{
-  width: 50px;
-  heigh: 50px;
-}
-
-.insta{
-  width: 50px;
-  heigh: 50px;
-}
-
 #sns{
   display: inline-block;
+  width: 50px;
+  heigh: 50px;
 }
 
 .email{
