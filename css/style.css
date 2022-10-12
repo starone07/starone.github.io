@@ -109,4 +109,5 @@ title, h1, p, h2, a{
   display: inline-block;
   color: #000;
   text-align: center;
+  margin-left: 40%;
 }
