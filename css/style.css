@@ -93,7 +93,16 @@ title, h1, p, h2, a{
   margin-left: 45%;
 }
 
-.yt, .insta, .github{
+
+#insta{
+    heigh: 50px;
+}
+
+#youtube{
+    heigh: 50px;
+}
+
+#github{
     heigh: 50px;
 }
 
