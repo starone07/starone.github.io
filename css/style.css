@@ -69,13 +69,6 @@ title, h1, p, h2, a{
   transform: scale(1.1); 
 }
 
-.icon{
-  margin: 10%;
-  display: inline-block;
-}
-
-
-
 .img1, .img2, .img3, .img4{
   width: 350px;
   heigh: 350px;
