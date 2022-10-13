@@ -27,7 +27,7 @@ ul.posts li{
 }
 
 #menu{
-    margin-top: -10px;
+    margin-left: 3px;
     padding-top: 0;
     position: fixed;
     background-color: #fff;
@@ -94,7 +94,7 @@ title, h1, p, h2, a{
 }
 
 .yt, .insta, .github{
-    : 50px;
+    heigh: 50px;
 }
 
 .email{
