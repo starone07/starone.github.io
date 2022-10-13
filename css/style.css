@@ -102,9 +102,9 @@ title, h1, p, h2, a{
   display: inline-block;
   color: #000;
   text-align: center;
-  margin-left: 30%;
+  margin-left: 33%;
 }
 
 #emailAddress{
-    margin-left: 8px;
+    margin-left: 15px;
 }
