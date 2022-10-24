@@ -11,19 +11,23 @@
     <link href="https://fonts.googleapis.com/css2?family=Alkalami&display=swap" rel="stylesheet">
   </head>
   <body>
+    <script>
+    $(document).ready(function() {
+      $("#Home").css("color", "black");
+    });
+</script>
     <nav id="menu">
      <ul>
-       <li><a href=”index.html”>Home</a></li>
+       <li><a href="top" id="Home">Home</a></li>
        <li><a href="about">About</a></li>
        <li><a href=”#sns”>Contact</a></li>
      </ul>
    </nav>
     <div>
-       <h1 id="top">Welcome to one's page</h1>
+       <h1>Welcome to one's page</h1>
     </div>
     <section>
-      <a id="photo"></a>
-       <h2>Photos</h2>
+      <a id="top">Photos</a>
        <img class="img1 line1 zoom" src="images/pic1.jpg" alt="photo"/>
        <img class="img2 line1 zoom" src="images/pic2.jpg" alt="photo"/>
        <img class="img3 line2 zoom" src="images/pic3.jpg" alt="photo"/>
