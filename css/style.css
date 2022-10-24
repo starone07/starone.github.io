@@ -101,6 +101,11 @@ title, h1, p, h2, h3{
     color: black;
 }
 
+h3{
+    padding-top: 10;
+    padding-bottom: 2;
+}
+
 #contact{
      margin-top: 35px;
 }
