@@ -10,15 +10,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alkalami&display=swap" rel="stylesheet">
     <script src="jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   </head>
   <body>
     <script>
     $(document).ready(function() {
-      $("li").fadeIn("slow");
+      $("button").click(function(){
+         $("li").toggle();
+});
     });
 </script>
     <nav id="menu">
      <ul>
+       <button>Menu</button>
        <li><a href="#top" id="Home">Home</a></li>
        <li><a href="about">About</a></li>
        <li><a href=”#sns”>Contact</a></li>
