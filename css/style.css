@@ -3,6 +3,10 @@ a{
     color: black;
 }
 
+button{
+    margin-left: 85%;
+}
+
 h1{
     font-size: 3em;
 }
