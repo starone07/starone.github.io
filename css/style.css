@@ -28,7 +28,7 @@ ul.posts li{
 }
 
 #menu{
-    padding: 0 30 0 0;
+    margin-right: 80%;
     position: fixed;
     background-color: #fff;
 }
