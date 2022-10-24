@@ -16,9 +16,9 @@
     <script>
     $(document).ready(function() {
       $("button").click(function(){
-        $("#home").fadeIn();
-        $("#about").fadeIn("slow");
-        $("#contact").fadeIn(3000);
+        $("#home").fadeToggle();
+        $("#about").fadeToggle("slow");
+        $("#contact").fadeToggle(3000);
       });
     });
 </script>
