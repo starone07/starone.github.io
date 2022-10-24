@@ -16,18 +16,18 @@
     <script>
     $(document).ready(function() {
       $("button").click(function(){
-        $("#div1").fadeIn();
-        $("#div2").fadeIn("slow");
-        $("#div3").fadeIn(3000);
+        $("#home").fadeIn();
+        $("#about").fadeIn("slow");
+        $("#contact").fadeIn(3000);
       });
     });
 </script>
     <nav id="menu">
      <ul>
        <button>Menu</button>
-       <li><a href="#top">Home</a></li>
-       <li><a href="about">About</a></li>
-       <li><a href=”#sns”>Contact</a></li>
+       <li><a href="#top" id="home">Home</a></li>
+       <li><a href="about" id="about">About</a></li>
+       <li><a href=”#sns” id="contact">Contact</a></li>
      </ul>
    </nav>
     <div>
