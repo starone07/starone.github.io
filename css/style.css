@@ -11,6 +11,11 @@ h1{
     font-size: 3em;
 }
 
+#top{
+    font-size: 10px;
+    margin-bottom: 2%;
+}
+
 p{
     font-size: 1.5em;
     line-height: 1.4em;
