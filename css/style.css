@@ -50,8 +50,8 @@ nav ul li, footer ul li {
 #top{
     font-family: 'Alkalami', serif;
     text-align: center;
-    font-size: 70px;
-    margin-bottom: 10%;
+    font-size: 60px;
+    margin: 0 0 10 20;
     color: black;
 }
 
