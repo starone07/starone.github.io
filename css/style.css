@@ -54,8 +54,9 @@ nav ul li, footer ul li {
 #top{
     font-family: 'Alkalami', serif;
     text-align: center;
-    font-size: 60px;
-    margin-left: 10%;
+    font-size: 55px;
+    margin-top: 10px;
+    margin-left: 20%;
     color: black;
 }
 
@@ -97,7 +98,7 @@ title, h1, p, h2{
 #sns{
     font-family: 'Alkalami', serif;
     text-align: center;
-    margin-left: 45%;
+    margin-left: 55%;
     font-size: 20px;
     color: black;
 }
