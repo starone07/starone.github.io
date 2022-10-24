@@ -102,12 +102,16 @@ title, h1, p, h2, h3{
 }
 
 h3{
+    text-align: center;
+    font-family: 'Alkalami', serif;
     padding-top: 10;
     padding-bottom: 2;
 }
 
 #contact{
-     margin-top: 35px;
+    text-align: center;
+    font-family: 'Alkalami', serif;
+    margin-top: 35px;
 }
 
 #yt{
