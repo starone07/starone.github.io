@@ -4,7 +4,7 @@ a{
 }
 
 button{
-    padding-right: ;
+    padding-left: 70%;
     background-color: black;
     color: white;
 }
@@ -30,7 +30,7 @@ ul.posts li{
 
 #menu{
     margin-left: 90%;
-    padding-top: 0;
+    padding: 0 30 0 0;
     position: fixed;
     background-color: #fff;
 }
@@ -97,6 +97,7 @@ title, h1, p, h2{
 #sns{
     font-family: 'Alkalami', serif;
     text-align: center;
+    margin-left: 45%;
     font-size: 20px;
     color: black;
 }
