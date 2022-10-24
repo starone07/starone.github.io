@@ -4,7 +4,9 @@ a{
 }
 
 button{
-    margin-left: 85%;
+    border-width: -10px;
+    background-color: black;
+    color: white;
 }
 
 h1{
