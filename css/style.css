@@ -55,11 +55,11 @@ nav ul li, footer ul li {
     font-family: 'Alkalami', serif;
     text-align: center;
     font-size: 60px;
-    margin: 0 0 10 20;
+    margin-left: 10%;
     color: black;
 }
 
-title, h1, p, h2, a{
+title, h1, p, h2{
     text-align: center;
     font-family: 'Alkalami', serif;
 }
@@ -93,18 +93,23 @@ title, h1, p, h2, a{
   margin-top: ;
   margin-left: 45%;
 }
- #contact{
+
+#sns{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+#contact{
      margin-top: 35px;
 }
+
 #yt{
     margin-left: 40%;
 }
 
-#github{
-    margin-left: 30px;
-}
-
-#insta{
+#github, #insta{
     margin-left: 30px;
 }
 
