@@ -4,7 +4,7 @@ a{
 }
 
 button{
-    border-width: -10px;
+    padding-right: ;
     background-color: black;
     color: white;
 }
@@ -29,10 +29,14 @@ ul.posts li{
 }
 
 #menu{
-    margin-left: 80%;
+    margin-left: 90%;
     padding-top: 0;
     position: fixed;
     background-color: #fff;
+}
+
+#contact{
+    padding-right: 3px;
 }
 
 nav ul, footer ul {
