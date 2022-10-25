@@ -31,6 +31,7 @@ ul.posts li{
 }
 
 #menu{
+    margin-top: 10px;
     margin-right: 80%;
     position: fixed;
     background-color: #fff;
@@ -56,7 +57,7 @@ nav ul li, footer ul li {
     font-family: 'Alkalami', serif;
     text-align: center;
     font-size: 55px;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 23%;
     color: black;
 }
