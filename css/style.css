@@ -63,7 +63,7 @@ nav ul li, footer ul li {
     color: black;
 }
 
-title, h1, p, h2, h3, #contact{
+title, h1, p, h2, h3{
     text-align: center;
     font-family: 'Alkalami', serif;
 }
@@ -111,12 +111,6 @@ h3{
     padding-top: 10px;
     padding-bottom: 0;
     margin-bottom: 0;
-}
-
-#contact{
-    text-align: center;
-    font-family: 'Alkalami', serif;
-    margin-top: 35px;
 }
 
 #yt{
